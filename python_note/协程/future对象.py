@@ -49,3 +49,4 @@ for i in range(10):
 
 
 # crm 80%都是基于协程的异步协程编程+mysql
+print('future对象创建')
